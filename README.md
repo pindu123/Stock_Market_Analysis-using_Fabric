@@ -252,6 +252,3 @@ Through this project, I gained practical experience with:
 
 📌 Passionate about **Microsoft Fabric**, **Azure Data Engineering**, **Power BI**, and **Real-Time Analytics**.
 
----
-
-⭐ **If you found this project interesting, consider giving it a star!**
