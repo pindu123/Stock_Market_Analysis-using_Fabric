@@ -158,30 +158,6 @@ The dashboard refreshes automatically whenever new events arrive.
 
 ---
 
-# 📊 Data Flow
-
-```text
-Yahoo Finance API
-        │
-        ▼
-Fabric Notebook
-        │
-        ▼
-Fabric Data Pipeline
-(Hourly Trigger)
-        │
-        ▼
-Fabric Eventstream
-        │
-        ▼
-Eventhouse (KQL Database)
-        │
-        ▼
-Real-Time Dashboard
-```
-
----
-
 # 📸 Project Screenshots
 
 ## 🖥️ 1. Workspace Lineage
