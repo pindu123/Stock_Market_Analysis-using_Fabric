@@ -274,8 +274,6 @@ Through this project, I gained practical experience with:
 
 **Indumathi Panchireddi**
 
-**Software Trainee | Data & Advanced Analytics**
-
 📌 Passionate about **Microsoft Fabric**, **Azure Data Engineering**, **Power BI**, and **Real-Time Analytics**.
 
 ---
